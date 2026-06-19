@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["UP392X3856.Joey.MatFlow"],
+        "components": [
+          { "/": "/join*" }
+        ]
+      }
+    ]
+  }
+}
